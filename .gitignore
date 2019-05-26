@@ -1,0 +1,9 @@
+# 忽略自己
+# .gitignore
+
+# 忽略webstorm的idea文件夹
+.idea
+
+# 忽略.txt文件
+*.txt
+
